@@ -10,13 +10,13 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 
 ### Colaboradores deste projeto:
 
-@PyetroSouza
+[@PyetroSouza](https://github.com/PyetroSouza)
 
-@japahashi
+[@japahashi](https://github.com/japahashi)
 
-@EstRufi
+[@EstRufi](https://github.com/EstRufi)
 
-@eojotta
+[@eojotta](https://github.com/eojotta)
 
 ## Repositório de Back-end
 
