@@ -19,5 +19,5 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 [@eojotta](https://github.com/eojotta)
 
 ## Repositório de Back-end
-https://github.com/PyetroSouza/pi_ant-bug.git
+https://github.com/PyetroSouza/ant_bug_back-end.git
 ## Repositório de Front-end
