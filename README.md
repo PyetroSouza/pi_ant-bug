@@ -8,6 +8,7 @@ Nossa empresa é responsável pela criação aplicações para sanar problemas e
 Planeta verde é uma aplicação pensada e desenvolvida pensando nas pessoas que consomem apenas produtos veganos, e dentro 
 deste contexto pensamos em cada detalhe visando trazer a melhor experiência possivel para o comprador(usuário)
 
+---
 ### Colaboradores deste projeto:
 
 [@PyetroSouza](https://github.com/PyetroSouza)
@@ -18,6 +19,15 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 
 [@eojotta](https://github.com/eojotta)
 
+---
 ## Repositório de Back-end
+
 https://github.com/PyetroSouza/ant_bug_back-end.git
+
 ## Repositório de Front-end
+
+
+
+## Link do Protótipo de alta fidelidade(Figma)
+
+[Figma](https://www.figma.com/design/h8UN0gntL82OyDvSEJxor1/Planeta-Vegano?node-id=0-1&p=f&t=cfh5C4IaWWPrFkru-0)
