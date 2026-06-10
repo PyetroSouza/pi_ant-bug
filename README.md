@@ -14,7 +14,7 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 
 @japahashi
 
-@Estela_Rufino
+@EstRufi
 
 @eojotta
 
