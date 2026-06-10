@@ -9,9 +9,13 @@ Planeta verde é uma aplicação pensada e desenvolvida pensando nas pessoas que
 deste contexto pensamos em cada detalhe visando trazer a melhor experiência possivel para o comprador(usuário)
 
 ### Colaboradores deste projeto:
+
 @PyetroSouza
+
 @japahashi
+
 @Estela_Rufino
+
 @eojotta
 
 ## Repositório de Back-end
