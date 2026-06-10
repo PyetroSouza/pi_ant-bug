@@ -4,6 +4,7 @@ Nossa empresa é responsável pela criação aplicações para sanar problemas e
 
 ## Planeta Verde
 <img width="326" height="368" alt="image" src="https://github.com/user-attachments/assets/6b19708f-bca5-418c-9f3d-adc87b9e549c" />
+
 Planeta verde é uma aplicação pensada e desenvolvida pensando nas pessoas que consomem apenas produtos veganos, e dentro 
 deste contexto pensamos em cada detalhe visando trazer a melhor experiência possivel para o comprador(usuário)
 
