@@ -22,11 +22,11 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 ---
 ## Repositório de Back-end
 
-https://github.com/PyetroSouza/ant_bug_back-end.git
+[Back-end](https://github.com/PyetroSouza/ant_bug_back-end.git)
 
 ## Repositório de Front-end
 
-
+[Front-end](https://github.com/EstRufi/ant_bug_front_end)
 
 ## Link do Protótipo de alta fidelidade(Figma)
 
