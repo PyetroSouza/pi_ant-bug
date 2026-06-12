@@ -20,6 +20,17 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 [@eojotta](https://github.com/eojotta)
 
 ---
+
+## Tecnologias utilizadas
+
+* HTML
+* CSS
+* JS
+* MySQL
+* Node.js
+* Github
+* Api Rest
+
 ## Repositório de Back-end
 
 [Back-end](https://github.com/PyetroSouza/ant_bug_back-end.git)
@@ -28,6 +39,13 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 
 [Front-end](https://github.com/EstRufi/ant_bug_front_end)
 
-## Link do Protótipo de alta fidelidade(Figma)
+## Modelagem do banco de dados
+
+
+## Protótipo de alta fidelidade(Figma)
 
 [Figma](https://www.figma.com/design/h8UN0gntL82OyDvSEJxor1/Planeta-Vegano?node-id=0-1&p=f&t=cfh5C4IaWWPrFkru-0)
+
+
+
+
