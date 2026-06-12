@@ -41,7 +41,7 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 
 ## Modelagem do banco de dados
 
-[banco](https://github.com/PyetroSouza/pi_ant-bug/blob/main/banco/Banco%20Logico%20Projeto%20Integrador.mwb)
+[Banco](https://github.com/PyetroSouza/pi_ant-bug/blob/main/banco/Banco%20Logico%20Projeto%20Integrador.mwb)
 
 ## Protótipo de alta fidelidade(Figma)
 
