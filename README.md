@@ -51,6 +51,14 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 
 [Figma](https://www.figma.com/design/h8UN0gntL82OyDvSEJxor1/Planeta-Vegano?node-id=0-1&p=f&t=cfh5C4IaWWPrFkru-0)
 
+## Pitch(video curto do funcionamento do software)
+
+[Pitch](https://drive.google.com/file/d/1hhv6m_YfJ-1hmwn_JlTZMk2wevcdUmu5/view?usp=sharing)
+
+
+
+
+
 
 
 
