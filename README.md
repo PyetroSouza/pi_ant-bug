@@ -55,6 +55,10 @@ deste contexto pensamos em cada detalhe visando trazer a melhor experiência pos
 
 [Pitch](https://drive.google.com/file/d/1hhv6m_YfJ-1hmwn_JlTZMk2wevcdUmu5/view?usp=sharing)
 
+<img width="1919" height="910" alt="Captura de tela 2026-06-19 144904" src="https://github.com/user-attachments/assets/9d5996ea-d4fc-4b09-b87b-a3a6f160f079" />
+<img width="1904" height="910" alt="Captura de tela 2026-06-19 144849" src="https://github.com/user-attachments/assets/f3ea1d56-baf1-4d28-bcbb-1646f78ae625" />
+
+
 
 
 
